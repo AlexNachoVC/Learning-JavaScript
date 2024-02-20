@@ -1,1 +1,1 @@
-// Checked Property
+// Checked Property = Property that determines the checked state of an HTML checkbox or radio button element
