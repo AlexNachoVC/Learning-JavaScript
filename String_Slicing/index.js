@@ -21,7 +21,7 @@ let lastName = fullName.slice(fullName.indexOf(" ") + 1);
 
 console.log(firstName);
 console.log(lastName);
-*/
+*/ 
 
 const email = "example@gmail.com";
 
